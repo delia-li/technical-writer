@@ -8,7 +8,7 @@ layout: home
 Here are some projects I will include in my portfolio:
 * Sample 1: Process document
 
-<video width="320" height="240" controls>
+<video controls>
   <source src="./figma_animation/splash_animation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

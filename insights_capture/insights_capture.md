@@ -4,30 +4,41 @@ layout: page
 ---
 
 # An overview of features in Insights Capture, a screen recording software
+{: .no_toc }
 
 Sometimes you want to show your friends a really neat trick that’s difficult to explain over text. Using Insights Capture, you can record your computer's screen with ease, make edits, and share your clips over social media such as discord and facebook.
 
 In this feature overview, you will learn how to use the free features in Insights Capture to record your screen, edit videos, add comments, and share videos on social media. Let’s get started!
 
+---
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
 ## What is Insights Capture?
 Insights Capture is primarily used by the PC gaming community to record games, watch replays, and get feedback from peers and coaches. Insights Capture runs automatically on certain games that use Overwolf, a software that gathers in-game data to enhance the player experience. However, we can also benefit from the features Insights Capture has to offer in many contexts outside of gaming.
 
 ## Getting started with Insights Capture
-You can download the app for Windows desktop at [Insights.gg](insights.gg).
+1. You can download the app for Windows desktop at [Insights.gg](insights.gg).
 It’s free, and you won’t need to create an account because you can use your email later.
-
 <img src="./hero_image.png" width="800">
 
 
-Save the installer somewhere you’ll remember. Many users select `Downloads`.
+2. Save the installer somewhere you’ll remember. Many users select `Downloads`.
 <img src="./downloads.png" width="800">
 
-Run the installer, click `Yes` to allow it to make changes to your computer, and then follow the instructions.
+3. Run the installer, click `Yes` to allow it to make changes to your computer, and then follow the instructions. Once the installation is complete, click launch.
 <img src="./installer.png" width="600">
 
-Once the installation is complete, click launch.
-
-Sign in with your email and follow the last set of steps for setup.
+4. Sign in with your email and follow the last set of steps for setup.
 <img src="./signin.png" width="600">
 
 Now you’re ready to go! You can start using the features below.
@@ -43,7 +54,9 @@ You can enable auto-recording in `Settings > Recording > Enable auto record`. Wh
 <img src="./auto_record_setting.png" width="800">
 
 You can also turn off auto-record in settings and start recording in the overlay that shows up at the start of each game. You can adjust the settings for each specific game at `Settings > [Your game] > Auto launch`.
+
 <img src="./game_specific_launch_setting.png" width="500">
+
 
 You can start and stop recordings using the in-game overlay.
 ![Image of overlay in an Overwolf-supported game](./overlay.png)
