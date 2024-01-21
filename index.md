@@ -7,7 +7,10 @@ layout: home
 
 Here are some projects I will include in my portfolio:
 * Sample 1: Process document
-
+<video width="320" height="240" controls>
+  <source src="./figma_animation/splash_animation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 https://github.com/delia-li/tech-writing-portfolio/assets/14004788/9d6d75d0-bb59-4eb2-b576-d232e4916db1
 
