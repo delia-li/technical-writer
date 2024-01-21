@@ -1,3 +1,8 @@
+---
+title: Insights Capture
+layout: page
+---
+
 # An overview of features in Insights Capture, a screen recording software
 
 Sometimes you want to show your friends a really neat trick that’s difficult to explain over text. Using Insights Capture, you can record your computer's screen with ease, make edits, and share your clips over social media such as discord and facebook.
