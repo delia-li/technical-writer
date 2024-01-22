@@ -1,6 +1,7 @@
 ---
 title: Insights Capture
 layout: page
+nav_order: 3
 ---
 
 # An overview of features in Insights Capture, a screen recording software
@@ -70,10 +71,10 @@ A nice feature of Insights Capture is that you can make simple edits to videos w
 
 ### Clipping videos
 Click on the video you want to take a clip of. At the bottom left, click on `Clip`. You can also click on the Scissors icon in the top right corner.
-<!-- ![Image of the two locations you can click to make a clip](./where_to_clip.png) -->
+![Image of the two locations you can click to make a clip](./where_to_clip.png)
 
 This will bring up a yellow slider that you can resize or drag to cover the length of the clip you want to make.
-<!-- ![Image of the slider to make a clip](./slider.png) -->
+![Image of the slider to make a clip](./slider.png)
 
 Another way to clip is to type in the exact timestamps you want your clip to start and end, in the top right corner.
 <!-- ![Image of where you can input timestamps to make a clip](./timestamps.png) -->
