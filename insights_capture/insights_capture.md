@@ -70,20 +70,20 @@ A nice feature of Insights Capture is that you can make simple edits to videos w
 
 ### Clipping videos
 Click on the video you want to take a clip of. At the bottom left, click on `Clip`. You can also click on the Scissors icon in the top right corner.
-![Image of the two locations you can click to make a clip](./where_to_clip.png)
+<!-- ![Image of the two locations you can click to make a clip](./where_to_clip.png) -->
 
 This will bring up a yellow slider that you can resize or drag to cover the length of the clip you want to make.
-![Image of the slider to make a clip](./slider.png)
+<!-- ![Image of the slider to make a clip](./slider.png) -->
 
 Another way to clip is to type in the exact timestamps you want your clip to start and end, in the top right corner.
-![Image of where you can input timestamps to make a clip](./timestamps.png)
+<!-- ![Image of where you can input timestamps to make a clip](./timestamps.png) -->
 
 When you are finished clipping, click on `Save` in the bottom right and your clip will be saved as a new video in `Recordings`. You can also rename your videos to something descriptive so you'll remember each one.
-![Image showing how to rename a video](./rename_video.png)
+<!-- ![Image showing how to rename a video](./rename_video.png) -->
 
 ### Merging videos
 At the top left, click on `Merge Video`. Click on `Add Video` at the bottom to choose the clips you want to include and drag them to reposition their order. You can also use the `Search` feature in the top right to find any clips you know by name.
-![Image showing how to merge videos](./merge_video.png)
+<!-- ![Image showing how to merge videos](./merge_video.png) -->
 
 When you are done merging your clips, click on `Export` in the top right. Your new video will show up in `Recordings`.
 
