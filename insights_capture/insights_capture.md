@@ -99,8 +99,8 @@ To leave a comment or a note, click on the video and click on the speech bubble 
 Drag the slider to the point in the video that you comment refers to. This will give your comment a helpful timestamp that you can click to jump to in the video. You can format your comment using the tools in the bottom right corner. After you've added a comment, you can also leave a reply. You can always go back and edit or delete you comment by clicking the three dots in the corner.
 ![Image of where to make a comment or note](./comments.png)
 
-> [!TIP]
-> You can share comments you made with other Insights users. Check out how to upload your commented clips online at [sharing to Insights Capture](./insights_capture.md#sharing-to-insights-capture).
+{: .note }
+You can share comments you made with other Insights users. Check out how to upload your commented clips online at [sharing to Insights Capture](./insights_capture.md#sharing-to-insights-capture).
 
 You can also leave notes to yourself by clicking the `Notepad` icon next to the comment icon.
 ![Image of note](./notepad.png)

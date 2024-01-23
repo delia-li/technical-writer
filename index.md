@@ -7,7 +7,7 @@ nav_order: 1
 # Welcome to my technical writing portfolio!
 
 Here are some projects I will include in my portfolio:
-* [Sample 1: Process document](./figma_animation/figma_animation.md)
+* [Sample 1: How to make an animated splash screen in Figma](./figma_animation/figma_animation.md)
 
 <video width="800" controls>
   <source src="./figma_animation/splash_animation.mp4" type="video/mp4">
