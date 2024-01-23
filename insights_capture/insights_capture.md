@@ -84,13 +84,38 @@ When you are finished clipping, click on `Save` in the bottom right and your cli
 ![Image showing how to rename a video](./rename_video.png)
 
 ### Merging videos
-At the top left, click on `Merge Video`. Click on `Add Video` at the bottom to choose the clips you want to include and drag them to reposition their order. You can also use the `Search` feature in the top right to find any clips you know by name.
+If there are multiple clips you'd like to combine, click on `Merge Video` in the top left. Click on `Add Video` at the bottom to choose the clips you want to include and drag them to reposition their order. You can also use the `Search` feature in the top right to find any clips you know by name.
 ![Image showing how to merge videos](./merge_video.png)
 
 When you are done merging your clips, click on `Export` in the top right. Your new video will show up in `Recordings`.
 
 ## Leaving comments and notes on videos
+You can leave comments and notes on videos for your own reference or for other Insights Capture users to review.
+
+To leave a comment or a note, click on the video and click on the speech bubble or notepad icon in the top right corner.
+
+![Image of where to make a comment or note](./comment_and_note.png)
+
+Drag the slider to the point in the video that you comment refers to. This will give your comment a helpful timestamp that you can click to jump to in the video. You can format your comment using the tools in the bottom right corner. After you've added a comment, you can also leave a reply. You can always go back and edit or delete you comment by clicking the three dots in the corner.
+![Image of where to make a comment or note](./comments.png)
+
+> [!TIP]
+> You can share comments you made with other Insights users. Check out how to upload your commented clips online at [sharing to Insights Capture](./insights_capture.md#sharing-to-insights-capture).
+
+You can also leave notes to yourself by clicking the `Notepad` icon next to the comment icon.
+![Image of note](./notepad.png)
 
 ## Importing and exporting videos to your file system
+You can reveal where a video was saved by clicking `Show File` at the bottom left.
+![Image of note](./show_file.png)
+
+You can also import videos from your files into Insights Capture by clicking `Import Videos` in the top right.
+![Image of note](./import_videos.png)
 
 ## Sharing videos on social media
+Click the video you want to share and then click `Share` in the bottom right corner. You can share to Insights.gg, Discord, YouTube, or TikTok.
+![Image of note](./share.png)
+
+### Sharing to Insights.gg
+If you're signed in, you can upload your video to Insights.gg by clicking `Share > Insights VOD Review`. The free plan gives you 5GB of space online to store your videos. Once you've shared, you can create teams or invite your friends by email.
+![Image of note](./insights_online.png)
