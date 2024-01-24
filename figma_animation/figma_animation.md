@@ -24,10 +24,22 @@ An animated splash screen can really bring your website or app to life. It’s a
 
 ---
 
-# First, gather the components you’ll be using in your app.
-You can find thousands of icons from the [Google Material UI design library](https://fonts.google.com/icons). There are also many other design suites you can use! Download your icons in the `SVG` format.
+# Gather the components you’ll be using in your app
+Go to the [Google Material UI design library](https://fonts.google.com/icons) and search for `directions bus` and `train`. Download your icons in the `SVG` format.
 
 <img src="./svg_download.png" width="600">
 
+{: .note }
+There are thousands of icons you can explore in the Google design suite. There are also [many other design systems](https://www.designsystemsforfigma.com/) that are free to use on Figma!
 
-# Next, build your frames in Figma.
+
+# Build your frames in Figma.
+1. Open Figma and create a new project.
+2. Press `F` to open the Frame selection and choose `Android Large`.
+3. Drag and drop your two transit icons into your project
+4. Select the Frame and change the `Fill` to `000117`, a dark blue color. This will be your background.
+5. Select the transit icons and change the color under `Selection Colors` to `21246A`.
+6. Press `T` to create text, and type `Rate`.
+7. Repeat step 6 but `My` and `Transit`. It is important to have these three words as separate Text objects because you will be animating them separately later.
+
+
