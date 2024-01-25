@@ -46,3 +46,4 @@ This is how you want your splash screen to look once the animation completes. Yo
 <img src="./animation_sketch.png" width="500">
 
 # Build your transitional frames
+
