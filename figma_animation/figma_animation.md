@@ -33,13 +33,16 @@ Go to the [Google Material UI design library](https://fonts.google.com/icons) an
 There are thousands of icons you can explore in the Google design suite. There are also [many other design systems](https://www.designsystemsforfigma.com/) that are free to use on Figma!
 
 
-# Build your frames in Figma.
+# Build your final frame
+This is how you want your splash screen to look once the animation completes. You will be building toward this state in the following tutorials.
 1. Open Figma and create a new project.
-2. Press `F` to open the Frame selection and choose `Android Large`.
+2. Press `F` to open the Frame selection and choose `Android Large` on the right side panel.
 3. Drag and drop your two transit icons into your project
 4. Select the Frame and change the `Fill` to `000117`, a dark blue color. This will be your background.
 5. Select the transit icons and change the color under `Selection Colors` to `21246A`.
 6. Press `T` to create text, and type `Rate`.
-7. Repeat step 6 but `My` and `Transit`. It is important to have these three words as separate Text objects because you will be animating them separately later.
+7. Repeat step 6 but `My` and `Transit`. It is important to have these three words as separate Text objects because you will be animating them separately later. Set the text color to white, or `FFFFFF`.
 
+<img src="./animation_sketch.png" width="500">
 
+# Build your transitional frames
