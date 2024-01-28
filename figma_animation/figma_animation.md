@@ -87,12 +87,16 @@ This is how you want your splash screen to look once the animation completes. Yo
 Nice work! Now you're ready to start animating your frames.
 1. In the upper right corner, click on `Prototype`.
 2. Hover your mouse over your Frame named `initial splash`. A small, blue plus symbol in a circle should appear. Click and drag the plus symbol over to the next Frame, `vehicles appear`. This will create a Prototype connection indicated by a blue arrow.
-3. In the dialog, set it to `After Delay` with a duration of 300ms, `Navigate to`, `Dissolve`, and `Custom bezier` with a duration of 1000ms for the animation style. You can access this dialog at any time by clicking `Prototype` and clicking on the blue arrow.
-
-4. Create another Prototype connection from `vehicles appear` to `vehicles arrive`. 
-
-
+3. In the dialog, set it to `After Delay` with a duration of 300ms. Select `Navigate to`, `Dissolve`, and `Custom bezier` with a duration of 1000ms for the animation style. You can edit this dialog at any time by clicking `Prototype` and clicking on the blue arrow.
+4. Create another Prototype connection from `vehicles appear` to `vehicles arrive`. In the dialog, set it to `After delay` with a duration of 1ms, `Navigate to`, `Smart Animate`, and `Custom Spring` (1750ms).
 
 # Test your prototype
+Nice work! Now you’re ready to test your animation.
+1. Hover over your first frame in Prototype mode and click the Play icon on the right of the flow. A dialog box will open and play your animation. To repeat the animation, press `R`. 
+2. Make any adjustments to your animation as you see fit.
 
 # Gather feedback
+Now that your animation behaves as you intended, it's time to iterate on feedback from your teammates and peers.
+1. In the upper right corner, click the Play icon.
+2. In Prototype mode, click `Share prototype` in the upper right. In the options, share it with specific emails or click `anyone with the link`. Set the visibility to `view only` so people don't edit your project on accident.
+3. Keep a log of the feedback from others. What would you change or add? 
