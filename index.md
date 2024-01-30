@@ -16,6 +16,6 @@ Here are some projects I will include in my portfolio:
 
 * [Sample 2: An overview of features in Insights Capture, a screen recording software](./insights_capture/insights_capture.md)
 
-* Sample 3: App design technical proof-of-concept
+* [Sample 3: Rate My Transit mobile app - case study](./rate_my_transit/rate_my_transit_case_study.md)
 
 * Sample 4: Open Source documentation work for OneBusAway
