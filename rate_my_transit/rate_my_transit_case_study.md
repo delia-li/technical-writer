@@ -1,5 +1,34 @@
+---
+title: Rate My Transit case study
+layout: page
+---
+
 # Project Overview
+{: .no_toc }
+
 What RMT does
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
+# Process
+User-centric design approach
+
+1. Identifying goals and solutions
+2. Collecting user testimonies
+3. Building the information architecture and site flow
+4. Designing wireframes for core features
+5. Designing wireframes for additional features
+6. Building prototype
+7. Iterating on feedback
 
 # Problem Statement and proposed solutions
 Accessibility problems in existing apps
