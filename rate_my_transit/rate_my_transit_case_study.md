@@ -6,7 +6,7 @@ layout: page
 # Project Overview
 {: .no_toc }
 
-What RMT does
+Welcome to Rate My Transit, a mobile app that provides real time updates on travel conditions from the local transit community. The goal of Rate My Transit is to help transit users share information with each other and to make public transit more accessible and enjoyable for all riders.
 
 <details open markdown="block">
   <summary>
@@ -52,17 +52,31 @@ about the users in the sample
 
 City Nerd - 65. Retired professor and transit agency designer. Transit tourist visiting from out of town. He plans to make lots of Seattle content for his youtube channel and go to every cheesecake factory he can find.
 
-A Liyue - 28. International student working on her PhD at UW. She has no car and lives near the University District. Liyue takes transit every day for her busy schedule.
+Lihui Z. - 28. International student working on her PhD at UW. She has no car and lives near the University District. Liyue takes transit every day for her busy schedule.
 
-Milo Washington - 17. Currently a 4th year student at Roosevelt High School. He takes transit to school every day and then to sports practice after school. Milo loves blogging and gacha games.
+Milo W. - 17. Currently a 4th year student at Roosevelt High School. He takes transit to school every day and then to orchestra rehearsals after school. Milo loves blogging and gacha games.
 
-Angie Tashjyan - 35. Freelance artist working at a gallery in Capitol Hill. She is also an advocate at several disability rights groups. As a wheelchair user, Angie values accessibility for all.
+Angie T. - 35. Freelance artist working at a gallery in Capitol Hill. She is also an advocate at several disability rights groups. As a wheelchair user, Angie values accessibility for all.
 
-Saado Ali Warsame - 74. Refugee in South Seattle who uses transit to visit parks with her grandchildren. Her grandchildren check apps like google maps and translate them for her. Saado wishes there were more Somali translations on public vehicles.
+Saado Ali W. - 74. Refugee in South Seattle who uses transit to visit parks with her grandchildren. Her grandchildren check apps like google maps and translate them for her. Saado wishes there were more Somali translations on public vehicles.
 
 interview questions
 
 competitive analysis with Google Maps, OBA, and Transit app
+
+|Features | Google Maps | OneBusAway | Transit | RMT|
+|:--|:--:|:--:|:--:|:--:|
+|Arrival times|:white_check_mark:|3|4|5|
+|Conditions on each vehicle|2|:x:|4|5|
+|Conditions at the station|2|3|4|5|
+|Users can type comments|2|3|4|5|
+|Replies and upvotes|2|3|4|5|
+|Ad-free|2|3|4|5|
+|Rewards users for engagement|2|3|4|5|
+|Meets accessibility standards|2|3|4|5|
+
+
+
 # Information Architecture
 sitemap of the pages in RMT
 
@@ -88,7 +102,7 @@ No ads
 
 # Wireframes
 
-# High-fidelity prototype
+# Key Mockups
 
 # Prototype demo
 
