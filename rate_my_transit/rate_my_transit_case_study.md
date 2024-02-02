@@ -66,14 +66,14 @@ competitive analysis with Google Maps, OBA, and Transit app
 
 |Features | Google Maps | OneBusAway | Transit | RMT|
 |:--|:--:|:--:|:--:|:--:|
-|Arrival times|:white_check_mark:|3|4|5|
-|Conditions on each vehicle|2|:x:|4|5|
-|Conditions at the station|2|3|4|5|
-|Users can type comments|2|3|4|5|
-|Replies and upvotes|2|3|4|5|
-|Ad-free|2|3|4|5|
-|Rewards users for engagement|2|3|4|5|
-|Meets accessibility standards|2|3|4|5|
+|Arrival times|✅|✅|✅|✅|
+|Conditions on each vehicle|❌|❌|✅|✅|
+|Conditions at the station|✅|❌|❌|✅|
+|Users can type comments|✅|❌|❌|✅|
+|Replies and upvotes|❌|❌|❌|✅|
+|Ad-free|❌|✅|❌|✅|
+|Rewards users for engagement|✅|➖|✅|✅|
+|Meets accessibility standards|✅|❌|❌|✅|
 
 
 
