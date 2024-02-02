@@ -31,15 +31,18 @@ User-centric design approach
 7. Iterating on feedback
 
 # Problem Statement and proposed solutions
-Accessibility problems in existing apps
+Transit riders face many challenges while using public transit and the apps that are currently available. These pain points include problems in existing apps and issues with transit in general, such as delays and reduced service.
 
-Official transit agency communications are too delayed to be useful (source reddit post)
+* Existing apps have a number of issues: persistent lag and crashes in Transit app, out of date rider information in Google Maps, and poor visual accessibility and feature maintenance in OneBusAway.
 
-Riders with disabilities arrive at stations where elevators or wheelchair-accessible entrances are out of service
+* Official transit agency communications like Sound Transit and BART are too delayed to be useful. It is not helpful for riders to receive a text that a train will be cancelled after they are already waiting on the platform. [Source: Reddit](https://www.reddit.com/r/Seattle/comments/1ady2mz/wow_sound_transit_really_sht_the_bed_this_morning/)
 
-Travelers from out of town arrive at stations where the ticket machines are broken
+* Riders with disabilities arrive at stations where elevators or wheelchair-accessible entrances are out of service. This also impacts riders without disabilities who are carrying luggage or bikes. [Source: Reddit](https://www.reddit.com/r/SeattleWA/comments/10w6uc5/light_rail_riders_frustrated_by_broken_escalators/)
 
-Riders want to know which trains and buses are too crowded so they can decide whether to get on the next one or plan an alternate route
+![Text message informing riders that elevators are broken](./elevators_oof.jpg)
+_For northbound passengers, this means riding the train for at least an additional ten minutes to the next closest stop, getting off, and then taking a bus or a rideshare service. A text message like this one would also not be sufficient for southbound riders trying to plan ahead, because of how long it takes to reach Tukwila station from Rainier Beach station._
+
+* Travelers from out of town arrive at stations where the ticket machines are broken
 
 Riders want to see real-time updates on conditions at stations, before they arrive
 
