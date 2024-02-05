@@ -44,32 +44,46 @@ _For northbound passengers, this means riding the train for at least an addition
 
 * Travelers visiting Seattle arrive at stations where the ticket machines are broken. Many tourists do not know where they can buy tickets or transit cards.
 
-* Riders don't only want to see conditions on vehicles. They also want to see real-time updates on conditions at stations, before they arrive.
+* Riders don't only want to see conditions on vehicles. They also want to see accurate updates on conditions at stations, before they arrive.
 
 # User Research
-Conducting user research involves two types of analysis: quantitative and qualitative research. 
+Conducting user research involves two types of analysis: quantitative and qualitative research.
 
 ## Qualitative research
 
-For quantitative research, 15 transit riders from Seattle provided responses on their experiences with existing transit apps.
+For quantitative research, 15 transit riders from Seattle responded to survey questions about transit apps.
 
 1. Which transit app do you primarily use?
 
-2. Which problems have you encountered in existing apps?
+    7 Google Maps, 3 OneBusAway, 4 Transit, 1 something else
+
+2. Which problems have you encountered while using transit apps?
+
+    Conditions on vehicles are outdated or inaccurate
+
+    Limited information about station closures or route changes
+
+    Too many ads
+
+    Bugs, crashes, and other technical problems
+
+    App does not meet accessibility standards, e.g. is difficult to read on a bright day because the text and backgrounds have poor contrast
+
+    Apps don't provide details about stations and vehicles aside from how crowded they are
 
 ## Quantitative research
 
-For quantitative research, 3 transit riders from Seattle gave more detailed responses to questions about their experiences using transit apps.
+For quantitative research, 4 transit riders from Seattle gave more detailed responses to questions about their experiences using transit apps.
 
 ### User Profiles
 
 City Nerd - 65. Retired professor and transit agency designer. Transit tourist visiting from out of town. He plans to make lots of Seattle content for his youtube channel and go to every cheesecake factory he can find.
 
-Lihui Z. - 28. International student working on her PhD at UW. She has no car and lives near the University District. Liyue takes transit every day for her busy schedule.
+Lihui Z. - 23. International student working on her degree at UW. She has no car and lives near the University District. Lihui takes transit every day for her busy schedule.
 
 Milo W. - 17. Currently a 4th year student at Roosevelt High School. He takes transit to school every day and then to orchestra rehearsals after school. Milo loves blogging and gacha games.
 
-Angie T. - 35. Freelance artist working at a gallery in Capitol Hill. She is also an advocate at several disability rights groups. As a wheelchair user, Angie values accessibility for all.
+Angie T. - 38. Freelance artist working at a gallery in Capitol Hill. She is also an advocate at several disability rights groups. As a wheelchair user, Angie values accessibility for all.
 
 interview questions
 
@@ -94,20 +108,22 @@ sitemap of the pages in RMT
 user flow of navigation between pages
 
 # List of core features
-Map showing stations and the lines that pass through each station
+* Map showing stations and the lines that pass through each station
 
-Comment and status feature for stations and individual vehicles
+* Users can post comments for stations and individual vehicles
 
-Adding photos and helpful tags to comments
+* Users can add photos and helpful tags to comments
 
-Replies, upvotes, option to mark as resolved
+* Users can add replies, upvote other comments, and mark their own comments as resolved
 
 # List of secondary features
-Sign in and profile customization
+* Sign in with email and a unique code
 
-Earning gems for engagement with the app
+* Signed-in users can customize their avatar
 
-Spending gems on cosmetics such as upgrading an avatar
+* Users can earn gems as a reward for engaging in the app
+
+* Users can spend gems on cosmetics such as upgrading an avatar
 
 No ads
 
