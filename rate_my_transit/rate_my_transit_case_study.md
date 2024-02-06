@@ -99,6 +99,7 @@ interview questions
 ❌ - does not have feature
 
 ➖ - not applicable
+
 |Features | Google Maps | OneBusAway | Transit | RMT|
 |:--|:--:|:--:|:--:|:--:|
 |Arrival times|✅|✅|✅|✅|
