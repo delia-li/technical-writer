@@ -6,7 +6,7 @@ layout: page
 # Project Overview
 {: .no_toc }
 
-Welcome to Rate My Transit, a mobile app that provides real time updates on travel conditions from the local transit community. The goal of Rate My Transit is to help transit users share information with each other and to make public transit more accessible and enjoyable for all riders.
+Welcome to Rate My Transit, or RMT, a mobile app that provides real time updates on travel conditions from the local transit community. The goal of Rate My Transit is to help transit users share information with each other and to make public transit more accessible and enjoyable for all riders.
 
 <details open markdown="block">
   <summary>
@@ -51,13 +51,18 @@ Conducting user research involves two types of analysis: quantitative and qualit
 
 ## Qualitative research
 
-For quantitative research, 15 transit riders from Seattle responded to survey questions about transit apps.
+For quantitative research, 20 transit riders from Seattle responded to survey questions about transit apps.
 
-1. Which transit app do you primarily use?
+1. What is your age?
 
-    7 Google Maps, 3 OneBusAway, 4 Transit, 1 something else
+![Age survey results](./age_survey.png)
 
-2. Which problems have you encountered while using transit apps?
+2. Which transit app do you primarily use?
+
+![Age survey results](./transit_apps.png)
+
+
+3. Which problems have you encountered while using transit apps?
 
     Conditions on vehicles are outdated or inaccurate
 
@@ -87,8 +92,13 @@ Angie T. - 38. Freelance artist working at a gallery in Capitol Hill. She is als
 
 interview questions
 
-competitive analysis with Google Maps, OBA, and Transit app
+# Competitive analysis with Google Maps, OBA, and Transit app
 
+✅ - has feature
+
+❌ - does not have feature
+
+➖ - not applicable
 |Features | Google Maps | OneBusAway | Transit | RMT|
 |:--|:--:|:--:|:--:|:--:|
 |Arrival times|✅|✅|✅|✅|
@@ -99,8 +109,6 @@ competitive analysis with Google Maps, OBA, and Transit app
 |Ad-free|❌|✅|❌|✅|
 |Rewards users for engagement|✅|➖|✅|✅|
 |Meets accessibility standards|✅|❌|❌|✅|
-
-
 
 # Information Architecture
 sitemap of the pages in RMT
@@ -124,8 +132,6 @@ user flow of navigation between pages
 * Users can earn gems as a reward for engaging in the app
 
 * Users can spend gems on cosmetics such as upgrading an avatar
-
-No ads
 
 # Wireframes
 
