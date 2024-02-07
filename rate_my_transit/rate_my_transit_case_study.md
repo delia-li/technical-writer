@@ -56,17 +56,11 @@ Conducting user research involves two types of analysis: quantitative and qualit
 
 For quantitative research, 20 transit riders from Seattle responded to survey questions about transit apps.
 
-1. What is your age?
+![Age survey results](./age_survey.png)
 
-    ![Age survey results](./age_survey.png)
-    <img src="./age_survey.png" width="600">
+![Age survey results](./transit_apps.png)
 
-2. Which transit app do you primarily use?
-
-    ![Age survey results](./transit_apps.png)
-
-3. Which problems have you encountered while using transit apps?
-    ![Survey of other apps](./other_apps.png)
+![Survey of other apps](./other_apps.png)
 
 ## Quantitative research
 
@@ -99,13 +93,8 @@ For quantitative research, 4 transit riders from Seattle gave more detailed resp
 |Rewards users for engagement|✅|➖|✅|✅|
 |Meets accessibility standards|✅|❌|❌|✅|
 
-# Information Architecture
-sitemap of the pages in RMT
-
-user flow of navigation between pages
-
 # List of core features
-* Map showing stations and the lines that pass through each station
+* Map showing stations and the transit lines that pass through each station
 
 * Users can post comments for stations and individual vehicles
 
@@ -114,13 +103,13 @@ user flow of navigation between pages
 * Users can add replies, upvote other comments, and mark their own comments as resolved
 
 # List of secondary features
-* Sign in with email and a unique code
+* Sign in with email and an authentication code
 
 * Signed-in users can customize their avatar
 
 * Users can earn gems as a reward for engaging in the app
 
-* Users can spend gems on cosmetics such as upgrading an avatar
+* Users can spend gems on cosmetics such as upgrading their avatar
 
 # Wireframes
 
