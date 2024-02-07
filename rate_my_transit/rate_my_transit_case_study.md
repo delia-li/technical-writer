@@ -40,6 +40,7 @@ Transit riders face many challenges while using public transit and the apps that
 * Riders with disabilities arrive at stations where elevators or wheelchair-accessible entrances are out of service. This also impacts riders without disabilities who are carrying luggage or bikes. [Source: Kiro News](https://www.kiro7.com/news/local/light-rail-riders-frustrated-by-broken-escalators-elevators-stations/6SJCGW4E5VB2LHPJKPOVMVC4LA/)
 
 ![Text message informing riders that elevators are broken](./elevators_oof.jpg)
+<img src="./elevators_oof.jpg" width="600">
 _For northbound passengers, this means riding the train for at least an additional ten minutes to the next closest stop, getting off, and then taking a bus or a rideshare service. A text message like this one would also not be sufficient for southbound riders trying to plan ahead, because of how long it takes to reach Tukwila station from Rainier Beach station._
 
 * Travelers visiting Seattle arrive at stations where the ticket machines are broken. Many tourists do not know where they can buy tickets or transit cards.
@@ -55,42 +56,27 @@ For quantitative research, 20 transit riders from Seattle responded to survey qu
 
 1. What is your age?
 
-![Age survey results](./age_survey.png)
+    ![Age survey results](./age_survey.png)
+    <img src="./age_survey.png" width="600">
 
 2. Which transit app do you primarily use?
 
-![Age survey results](./transit_apps.png)
-
+    ![Age survey results](./transit_apps.png)
 
 3. Which problems have you encountered while using transit apps?
-
-    Conditions on vehicles are outdated or inaccurate
-
-    Limited information about station closures or route changes
-
-    Too many ads
-
-    Bugs, crashes, and other technical problems
-
-    App does not meet accessibility standards, e.g. is difficult to read on a bright day because the text and backgrounds have poor contrast
-
-    Apps don't provide details about stations and vehicles aside from how crowded they are
+    ![Survey of other apps](./other_apps.png)
 
 ## Quantitative research
 
 For quantitative research, 4 transit riders from Seattle gave more detailed responses to questions about their experiences using transit apps.
 
-### User Profiles
+### User Personas
 
-City Nerd - 65. Retired professor and transit agency designer. Transit tourist visiting from out of town. He plans to make lots of Seattle content for his youtube channel and go to every cheesecake factory he can find.
+![City Nerd user persona](./city_nerd.png)
 
-Lihui Z. - 23. International student working on her degree at UW. She has no car and lives near the University District. Lihui takes transit every day for her busy schedule.
+![Angie persona](./angie.png)
 
-Milo W. - 17. Currently a 4th year student at Roosevelt High School. He takes transit to school every day and then to orchestra rehearsals after school. Milo loves blogging and gacha games.
-
-Angie T. - 38. Freelance artist working at a gallery in Capitol Hill. She is also an advocate at several disability rights groups. As a wheelchair user, Angie values accessibility for all.
-
-interview questions
+![Shanelle persona](./shanelle.png)
 
 # Competitive analysis with Google Maps, OBA, and Transit app
 
