@@ -39,9 +39,11 @@ Transit riders face many challenges while using public transit and the apps that
 
 * Riders with disabilities arrive at stations where elevators or wheelchair-accessible entrances are out of service. This also impacts riders without disabilities who are carrying luggage or bikes. [Source: Kiro News](https://www.kiro7.com/news/local/light-rail-riders-frustrated-by-broken-escalators-elevators-stations/6SJCGW4E5VB2LHPJKPOVMVC4LA/)
 
-<img src="./elevators_oof.jpg" width="600">
 
-_For northbound passengers, this means riding the train for at least an additional ten minutes to the next closest stop, getting off, and then taking a bus or a rideshare service. A text message like this one would also not be sufficient for southbound riders trying to plan ahead, because of how long it takes to reach Tukwila station from Rainier Beach station._
+    <img src="./elevators_oof.jpg" width="600">
+
+
+    _For northbound passengers, this means riding the train for at least an additional ten minutes to the next closest stop, getting off, and then taking a bus or a rideshare service. A text message like this one would also not be sufficient for southbound riders trying to plan ahead, because of how long it takes to reach Tukwila station from Rainier Beach station._
 
 * Travelers visiting Seattle arrive at stations where the ticket machines are broken. Many tourists do not know where they can buy tickets or transit cards.
 
