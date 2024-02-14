@@ -9,14 +9,9 @@ nav_order: 1
 Here are some projects I will include in my portfolio:
 * [Sample 1: How to make an animated splash screen in Figma](./figma_animation/figma_animation.md)
 
-<video width="800" controls>
-  <source src="./figma_animation/splash_animation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 * [Sample 2: An overview of features in Insights Capture, a screen recording software](./insights_capture/insights_capture.md)
 
-* [Sample 3: Rate My Transit mobile app - case study](./rate_my_transit/rate_my_transit_case_study.md)
+* [Sample 3: Rate My Transit mobile app - A case study](./rate_my_transit/rate_my_transit_case_study.md) (In progress)
 
 * [Sample 4: Daily Action Editor at Seattle Indivisible](https://seattleindivisible.com/daily-actions/)
 

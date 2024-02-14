@@ -74,6 +74,9 @@ For quantitative research, 4 transit riders from Seattle gave more detailed resp
 
 ![Shanelle persona](./shanelle.png)
 
+![3 user personas](./personas.png)
+
+
 # Competitive analysis with Google Maps, OBA, and Transit app
 
 ✅ - has feature
