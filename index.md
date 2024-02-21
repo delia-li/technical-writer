@@ -7,11 +7,11 @@ nav_order: 1
 # Welcome to my technical writing portfolio!
 
 Here are some projects I will include in my portfolio:
-* [Sample 1: How to make an animated splash screen in Figma](./figma_animation/figma_animation.md)
+* [Sample 1: How to make an animated splash screen in Figma](./figma_animation/figma_animation)
 
-* [Sample 2: An overview of features in Insights Capture, a screen recording software](./insights_capture/insights_capture.md)
+* [Sample 2: An overview of features in Insights Capture, a screen recording software](./insights_capture/insights_capture)
 
-* [Sample 3: Rate My Transit mobile app - A case study](./rate_my_transit/rate_my_transit_case_study.md)
+* [Sample 3: Rate My Transit mobile app - A case study](./rate_my_transit/rate_my_transit_case_study)
 
 ![Rate my transit cover image](./rate_my_transit/cover.png)
 
