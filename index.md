@@ -11,7 +11,7 @@ Here are some projects I will include in my portfolio:
 
 * [Sample 2: An overview of features in Insights Capture, a screen recording software](./insights_capture/insights_capture.md)
 
-* [Sample 3: Rate My Transit mobile app - A case study](./rate_my_transit/rate_my_transit_case_study.md) (In progress)
+* [Sample 3: Rate My Transit mobile app - A case study](./rate_my_transit/rate_my_transit_case_study.md)
 
 ![Rate my transit cover image](./rate_my_transit/cover.png)
 
