@@ -125,4 +125,6 @@ For quantitative research, 4 transit riders from Seattle gave more detailed resp
 # High Fidelity Prototype
 ![High Fidelity prototype](./high_fidelity.png)
 
-# Impact
+# Thank you!
+
+Thank you for reviewing my work! You can check out this project on [Behance](https://www.behance.net/gallery/191922921/RateMyTransit). Please connect with me on [LinkedIn](https://www.linkedin.com/in/delia-li-973659130/) or email me at delia.li96@gmail.com.
