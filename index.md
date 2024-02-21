@@ -13,6 +13,8 @@ Here are some projects I will include in my portfolio:
 
 * [Sample 3: Rate My Transit mobile app - A case study](./rate_my_transit/rate_my_transit_case_study.md) (In progress)
 
+![Rate my transit cover image](./rate_my_transit/cover.png)
+
 * [Sample 4: Daily Action Editor at Seattle Indivisible](https://seattleindivisible.com/daily-actions/)
 
 * Sample 5: Open Source documentation work for OneBusAway (Coming soon)

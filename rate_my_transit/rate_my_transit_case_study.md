@@ -8,6 +8,8 @@ layout: page
 
 Welcome to Rate My Transit, or RMT, a mobile app that provides real time updates on travel conditions from the local transit community. The goal of Rate My Transit is to help transit users share information with each other and to make public transit more accessible and enjoyable for all riders.
 
+![Rate my transit cover image](./cover.png)
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -115,9 +117,12 @@ For quantitative research, 4 transit riders from Seattle gave more detailed resp
 * Users can spend gems on cosmetics such as upgrading their avatar
 
 # Wireframes
+![Low fidelity wireframes](./wireframes.png)
 
-# Key Mockups
+# Design System
+![Design system](./design_system.png)
 
-# Prototype demo
+# High Fidelity Prototype
+![High Fidelity prototype](./high_fidelity.png)
 
 # Impact
